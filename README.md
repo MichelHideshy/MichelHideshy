@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/MichelHideshy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichelHideshy&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHideshy&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHideshy&layout=compact&theme=dracula"/>
 </div>
 
 ### Tecnologias que eu utilizo 👨🏻‍💻
