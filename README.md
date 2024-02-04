@@ -1,10 +1,7 @@
 ## Olá eu sou o Michel Hideshy 👋🏻
 
-<div>
-  <a href="https://github.com/MichelHideshy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichelHideshy&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHideshy&layout=compact&theme=dracula"/>
-</div>
+![MichelHideshy GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelHideshy&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHideshy&layout=compact&theme=dracula)
 
 ### Tecnologias que eu utilizo 👨🏻‍💻
 
